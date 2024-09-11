@@ -1,0 +1,52 @@
+body {
+font-family: 'P22 Type Foundry','P22 Marcel', 'P22 Marcel Caps',
+'P22 Marcel Caps';
+line-height: 1.6;
+color:rgb(246, 243, 246);
+max-width: 1000px;
+margin: 0 auto;
+padding: 20px;
+background-color: rgb(17, 16, 17);
+text-align: center;
+
+}
+
+li{
+    list-style-type: none;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 600px;
+    border-radius: 20px;
+}
+
+.imagem-topico {
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+/*estilo da página*/
+.conteudo-artigo{
+    background-color: #f0a4de;
+    border-radius: 10px;
+    padding: 30px;
+    list-style-type: none;
+    color: #ffffff;
+}
+
+.destaque {
+    background-color: aquamarine;
+    border-left: 8px solid azure;
+    border-radius: 5px;
+    padding: 15px;
+}
